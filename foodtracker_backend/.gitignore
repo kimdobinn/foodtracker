@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environment (if using)
+venv/
+
+# Ignore Docker build files
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
